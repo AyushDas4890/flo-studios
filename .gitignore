@@ -31,3 +31,8 @@ skills-lock.json
 *.njsproj
 *.sln
 *.sw?
+
+# Ruflo local tool state
+.claude-flow/
+.swarm/
+ruvector.db
